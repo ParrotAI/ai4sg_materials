@@ -17,8 +17,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
 * Working with time series data [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2C.ipynb)
-* Data Scraping [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2D.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ParrotAI/ai4sg_materials/blob/master/module%202/Module_2D.ipynb)
+* Data Scraping [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Data%20Scraping.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com//github.com/ParrotAI/ai4sg_materials/blob/master/module%202/Data%20Scraping.ipynb)
 
 ## Module 3
 * Data Processing For Categorical Variables [Notebook](https://github.com/ParrotAI/ai4sg_materials/blob/master/module%203/Data%20Processing%20For%20Categorical%20Variables.ipynb)
